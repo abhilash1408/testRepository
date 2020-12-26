@@ -1,0 +1,14 @@
+.test{
+    color : red;
+    background-color: black;
+}
+
+#paragraph1{
+    font-size : 30px;
+    color : green;
+}
+
+.list{
+    display: inline;
+    color : red
+}
